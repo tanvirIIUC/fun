@@ -1,0 +1,12 @@
+.form{
+width: 300px;
+
+}
+.form-contain{
+    display: flex;
+    justify-content: center;
+}
+.btn:hover{
+    margin-left: 200px;
+    
+}
